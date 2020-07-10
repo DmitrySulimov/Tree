@@ -5,4 +5,4 @@ index.html - выводит дерево со вложенностями на с
 pathHandler.js - обрабатывает путь, проверяет есть ли новые вложенности, если есть - добавляет в базу данных, а затем возвращает все вложености по заданому пути
 
 Пример работы 
-![]https://github.com/DmitrySulimov/Tree/blob/master/example.png)
+![](https://github.com/DmitrySulimov/Tree/blob/master/example.png)
